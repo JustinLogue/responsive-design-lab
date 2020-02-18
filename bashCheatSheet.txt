@@ -1,0 +1,28 @@
+cd *place* => go to *place*
+
+mkdir *name* => make a new file folder called *name*
+
+cd .. => go up a file
+
+^ => show last command
+
+touch *name*.*fileType* => make a file named *name* of *fillType*
+
+start *name* => open file *name*
+
+cp *name* *place* => copies a file *name* to location *place*
+
+mv *name* *place* => moves a file *name* to location *place*
+
+mv *name* *place that dosen't exsist* => renames *name*
+
+rm *name* => deletes file *name*
+
+rm -r=> DONT DO THIS! IT DELETS EVERYTHING!
+
+git init => makes this directory your in git capiable
+
+git add . => adds all files in the directory to the git staging area
+
+git commit -m "comments" => sends out for git files with comments
+
